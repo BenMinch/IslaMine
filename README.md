@@ -1,4 +1,5 @@
 # IslaMine
+<img width="2816" height="1536" alt="Gemini_Generated_Image_x5lpr7x5lpr7x5lp" src="https://github.com/user-attachments/assets/3bbdffbf-0f37-400f-a9a9-efb276928758" />
 
 IslaMine is a Python-based tool for **detecting genomic islands (GIs)** in assembled genomes using **tetranucleotide frequency (TNF) deviation**, cumulative sum analysis, and adaptive variance-based peak detection. The pipeline is designed to work on *viral, bacterial, or microbial genomes* and emphasizes robustness to noise and assembly artifacts.
 
