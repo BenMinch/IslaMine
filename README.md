@@ -24,6 +24,12 @@ pip install numpy pandas matplotlib biopython scipy
 ```
 
 ---
+## Installation
+```bash
+git clone https://github.com/BenMinch/IslaMine
+cd ./IslaMine
+```
+This should take a few seconds on a normal computer. Now you can run the Python script in this folder. 
 
 ## Input
 
