@@ -157,21 +157,6 @@ Includes per-genome statistics such as:
 
 ---
 
-## Recommended Downstream Analyses
-
-IslaMine is designed to integrate cleanly with:
-
-* Phylogenetic clustering (species-level)
-* Genome length dispersion filtering
-* Core gene completeness analysis
-* Island presence/absence matrices
-* Synteny-aware island comparison
-
-This enables confident discrimination between:
-
-> True biological absence vs. assembly-driven false negatives
-
----
 
 ## Caveats
 
@@ -184,6 +169,8 @@ This enables confident discrimination between:
 ## Citation
 
 If you use IslaMine in published work, please cite appropriately or link to this repository.
+
+Minch, B. and Moniruzzaman, M., 2026. Widespread Genomic Islands in Giant Viruses Shape Genome Plasticity and Mosaicism. bioRxiv, pp.2026-04.
 
 ---
 
