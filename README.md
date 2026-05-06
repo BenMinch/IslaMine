@@ -17,7 +17,12 @@ In addition to identifying candidate genomic islands, IslaMine:
 
 Python ≥ 3.8
 
-Required Python packages:
+Required Python packages (version tested with, but others likely work):
+numpy (1.26.4)
+pandas (2.3.3)
+matplotlib (3.7.1)
+biopython (1.79)
+scipy (1.11.3)
 
 ```bash
 pip install numpy pandas matplotlib biopython scipy
