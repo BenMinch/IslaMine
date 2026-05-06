@@ -59,7 +59,7 @@ genomes/
 ```bash
 python IslaMine.py <input_fasta_folder> <output_directory>
 ```
-
+This program is extremely fast and will take only a few seconds to run per genome.
 ### Example
 
 ```bash
